@@ -5,6 +5,8 @@ Download the the .zip file from the [release page](https://github.com/thanhqtran
 
 or from [Overleaf-gallery](https://www.overleaf.com/latex/templates/tohoku-university-thesis-template-m-dot-sc-slash-ph-dot-d/pcgmkntbnvzw)
 
+### Ruby script to convert wordpress xml to markdown.
+[https://gist.github.com/thanhqtran/6529293936987c97441d19e7b2c4d588](https://gist.github.com/thanhqtran/6529293936987c97441d19e7b2c4d588)
 
 ## General tips
 
@@ -420,12 +422,12 @@ companion code:
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/ [**(Video)**](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLl8XY7QVSa4aUyZAtL2Hlf_mx3LaSix9B&ab_channel=MITOpenCourseWare)
 - 6. Comp & DS 
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/ 
-- 7. Intermediate Macro: 
+- 7. Intermediate Macro:
   https://ocw.mit.edu/courses/economics/14-05-intermediate-macroeconomics-spring-2013/lecture-notes/ 
-- 8. Advanced Macro 1: 
+- 8. Advanced Macro 1:
   https://ocw.mit.edu/courses/economics/14-461-advanced-macroeconomics-i-fall-2012/ 
-- 9. Advanced Macro 2: 
-  https://ocw.mit.edu/courses/economics/14-462-advanced-macroeconomics-ii-spring-2004/[ https://ocw.mit.edu/courses/economics/14-462-advanced-macroeconomics-ii-spring-2007/index.htm](https://ocw.mit.edu/courses/economics/14-462-advanced-macroeconomics-ii-spring-2007/index.htm)
+- 9. Advanced Macro 2:
+  https://ocw.mit.edu/courses/economics/14-462-advanced-macroeconomics-ii-spring-2004/[https://ocw.mit.edu/courses/economics/14-462-advanced-macroeconomics-ii-spring-2007/index.htm](https://ocw.mit.edu/courses/economics/14-462-advanced-macroeconomics-ii-spring-2007/index.htm)
 
 
 
@@ -443,27 +445,27 @@ companion code:
 
 ### Essential for Econs:
 
-- 1. Optimization: 
+- 1. Optimization:
   https://agecon2.tamu.edu/people/faculty/woodward-richard/642/notes/default.htm 
-- 2. Dynamic Programming: 
+- 2. Dynamic Programming:
   https://absalon.ku.dk/courses/25988/wiki 
-- 3. Linear Algebra: 
+- 3. Linear Algebra:
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/ 
 - 4. SIngle Variable Calculus:
-   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/ 
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/ 
 - 5. Multi-variable Calculus:
-   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/ 
-- 6. Differential Equations: 
+  https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/ 
+- 6. Differential Equations:
   https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/ 
 - 7. Development Economics (Macroeconomics):
-   https://ocw.mit.edu/courses/economics/14-772-development-economics-macroeconomics-spring-2013/ 
-- 8. Econometrics with R-code: 
+  https://ocw.mit.edu/courses/economics/14-772-development-economics-macroeconomics-spring-2013/ 
+- 8. Econometrics with R-code:
   https://ocw.mit.edu/courses/economics/14-382-econometrics-spring-2017/ 
-- 9. Economic Growth: 
+- 9. Economic Growth:
   https://ocw.mit.edu/courses/economics/14-452-economic-growth-fall-2016/ 
-- 10. Time-series analysis with Matlab: 
+- 10. Time-series analysis with Matlab:
   https://ocw.mit.edu/courses/economics/14-384-time-series-analysis-fall-2013/index.htm 
-- 11. Maxtrix method in Data Analysis: 
+- 11. Maxtrix method in Data Analysis:
   https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/ 
 - 12. Principles of Econs:
   https://online.stanford.edu/courses/sohs-yeconschool-principles-economics 
@@ -474,8 +476,8 @@ companion code:
 
 ### Data Science
 
-- 1. Harvard (R):		 https://www.edx.org/professional-certificate/harvardx-data-science 
-- 2. IBM (SQL+Python) :	https://www.edx.org/professional-certificate/ibm-data-science 
+- 1. Harvard (R):		https://www.edx.org/professional-certificate/harvardx-data-science 
+- 2. IBM (SQL+Python):	https://www.edx.org/professional-certificate/ibm-data-science 
 
 ### Tohoku University DS training (Intro to Python):**
 
